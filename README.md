@@ -17,6 +17,12 @@ Soy Ingeniera en Sistemas con experiencia práctica en:
 
 Cuento con sólidas habilidades técnicas orientadas a la **resolución de problemas** y la **creación de soluciones tecnológicas eficientes y escalables**.
 
+
+Me apasiona:
+
+- 💻 La **programación**
+- 🔐 La **seguridad informática**
+- 🤖 La **inteligencia artificial**
 ---
 
 <p align="center">
