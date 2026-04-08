@@ -7,7 +7,7 @@
 </p>
 
 🎓 **Ingeniera en Sistemas**  
-🔐 **Administradora de Ciberseguridad en Eco5RD**
+🔐 **Administradora de Ciberseguridad en ECO5RD**
 
 Soy Ingeniera en Sistemas con experiencia práctica en:
 
