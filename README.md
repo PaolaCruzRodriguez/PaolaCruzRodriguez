@@ -1,15 +1,18 @@
 # 👋 ¡Hola, Soy Paola Rodriguez!
 
-📊 **Estudiante de Ingeniería en Sistemas** | 💻 **Desarrolladora en Formación** | 🤖 **Apasionada por la IA y la Automatización** | 🚀 **Futura Impulsora de la Transformación Digital**
 
-Soy estudiante de término de Ingeniería en Sistemas, con conocimientos prácticos en desarrollo **web** 🌐, **aplicaciones móviles** 📱 y **software de escritorio** 🖥️. A lo largo de mi formación, he trabajado con diferentes tecnologías y lenguajes de programación, lo que me ha permitido desarrollar habilidades técnicas y pensamiento lógico orientado a la resolución de problemas.
-
-Me apasiona la **programación** 💻 y el desarrollo de **soluciones tecnológicas** que optimicen la eficiencia operativa 🚀. Estoy comprometida con la **innovación**, la **mejora continua** y el uso de la tecnología para generar **impacto real** en las organizaciones.
   
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEiew0f8MqJKSCPWn_9L0n_zkkQAjSHq44jqfEbIjDc37h9yW2_u6b6C2CKz9VZ8xhiIpwvlR3I3PvVIVoaNRoOceCRK1cZQwto_h5gavThDVN_0HqhVwJ7nM2VjPcW6uqDiX0Uc9dejWYciYVXawyobHXM1rm_eCfMb_0CLfQeiOk9e2-X7oa2Xbywq6lc" alt="Foto de Paola" width="600" style="border-radius: 50%;" />
 </p>
+# Paola Cruz
 
+🎓 Ingeniera en Sistemas  
+🔐 Administradora de Ciberseguridad en ECO5RD  
+
+Soy Ingeniera en Sistemas con conocimientos prácticos en desarrollo web 🌐, aplicaciones móviles 📱 y software de escritorio 🖥️. Cuento con habilidades técnicas orientadas a la resolución de problemas y la creación de soluciones tecnológicas eficientes.
+
+Me apasiona la programación 💻, la seguridad informática 🔐, la inteligencia artificial 🤖 y el desarrollo de soluciones innovadoras que optimicen procesos y aporten valor a las organizaciones 🚀. Estoy comprometida con la innovación, la mejora continua y el uso estratégico de la tecnología para impulsar la transformación digital.
 ---
 
 <p align="center">
