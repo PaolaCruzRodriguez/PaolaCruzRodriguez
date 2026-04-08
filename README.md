@@ -9,7 +9,7 @@
 🎓 **Ingeniera en Sistemas**  
 🔐 **Administradora de Ciberseguridad en ECO5RD**
 
-Soy Ingeniera en Sistemas con experiencia práctica en:
+Experiencia práctica en:
 
 - 🌐 Desarrollo web  
 - 📱 Aplicaciones móviles  
